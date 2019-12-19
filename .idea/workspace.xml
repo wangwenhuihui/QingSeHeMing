@@ -6,91 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="236557d3-9650-49f0-bd50-48e805ec702c" name="Default Changelist" comment="IDEA整合Github测试">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f2e81900-d08f-44e6-a5f2-e5c0b93c1b73.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/entity/Ablum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/entity/EmotionArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/entity/FocusObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/entity/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/entity/Photo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/entity/ReadObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/mapper/IUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qf/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/entity/Ablum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/entity/EmotionArticle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/entity/FocusObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/entity/Mail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/entity/Photo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/entity/ReadObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/mapper/IUserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/service/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/com/qf/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/mappers/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/spring-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/classes/spring-mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/aspectjweaver-1.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/druid-1.1.20.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/fastjson-1.2.61.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/logback-access-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/mybatis-spring-2.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-aspects-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-orm-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/QingSeHeMing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/entity/Ablum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/entity/EmotionArticle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/entity/FocusObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/entity/Mail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/entity/Photo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/entity/ReadObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/mapper/IUserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qf/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mappers/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" afterDir="false" />
+    <list default="true" id="236557d3-9650-49f0-bd50-48e805ec702c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qf/controller/UserController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -123,7 +41,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
@@ -156,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="600">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,7 +88,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -258,8 +180,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/qf/entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qf/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/qf/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qf/controller/UserController.java" />
       </list>
     </option>
   </component>
@@ -312,7 +234,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -433,6 +354,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,7 +367,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -552,12 +474,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576740431510</updated>
-      <workItem from="1576740434698" duration="5948000" />
+      <workItem from="1576740434698" duration="10877000" />
     </task>
+    <task id="LOCAL-00001" summary="IDEA整合Github测试">
+      <created>1576747694468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576747694468</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IDEA整合Github测试&#10;第一次修改">
+      <created>1576756515302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576756515302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5948000" />
+    <option name="totallyTimeSpent" value="10877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -568,18 +505,18 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="Problems" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
@@ -601,9 +538,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IDEA整合Github测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="IDEA整合Github测试" />
+    <MESSAGE value="IDEA整合Github测试&#10;第一次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDEA整合Github测试&#10;第一次修改" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -732,19 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -766,6 +701,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
