@@ -5,4 +5,5 @@ import org.apache.ibatis.annotations.Param;
 
 public interface IUserMapper {
     Integer addUser(@Param("user") User user);
+    Integer queryByNamePwd(@Param("admin") User user);
 }

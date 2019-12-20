@@ -6,4 +6,8 @@
     <insert id="addUser">
         insert into user(username,password,nickname) values (#{user.username},#{user.password},#{user.nickname});
     </insert>
+
+    <select id="queryByNamePwd" resultType="Integer">
+        select count(*) from user where username = #{admin.username} and password = #{admin.password};
+    </select>
 </mapper>

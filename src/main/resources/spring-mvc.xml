@@ -12,6 +12,8 @@
 
     <!--  spring 扫描,开启注解支持  -->
     <context:component-scan base-package="com.qf"/>
+
+    <mvc:resources mapping="/utils/**" location="/utils/"/>
     <!-- 开启springMVC注解支持-->
     <mvc:annotation-driven>
         <!-- 消息转化器  -->

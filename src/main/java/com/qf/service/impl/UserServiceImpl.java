@@ -18,4 +18,10 @@ public class UserServiceImpl implements IUserService {
         Integer rSet = userMapper.addUser(user);
         return rSet;
     }
+
+    @Override
+    public Integer queryByNamePwd(User user) {
+        Integer rSet = userMapper.queryByNamePwd(user);
+        return rSet;
+    }
 }
