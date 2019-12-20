@@ -20,7 +20,6 @@ public class UserController {
     public Integer add(@RequestBody User user){
         log.debug("user="+user);
         log.debug("user="+user);
-        log.debug("user="+user);
         return userService.addUser(user);
     }
 }
