@@ -19,7 +19,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
 
     <junit.vaesion>4.11</junit.vaesion>
-    <spring.version>5.1.5.RELEASE</spring.version>
+    <spring.version>5.2.20.RELEASE</spring.version>
     <lombok.version>1.18.8</lombok.version>
     <logback.version>1.2.3</logback.version>
     <mybatis.version>3.4.6</mybatis.version>
